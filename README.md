@@ -23,7 +23,7 @@ The script files given in the folder `src/` are described here briefly:
 ## References
 - [Kumawat, A., Raychowdhury, P. and Chandra, S., 2019. Frequency-dependent analytical model for ballasted rail-track systems subjected to moving load. International Journal of Geomechanics, 19(4), p.04019016.](https://ascelibrary.org/doi/10.1061/%28ASCE%29GM.1943-5622.0001358)
 - [Madshus, C. 5., and A. M. Kaynia. 2000. “High-speed railway lines on soft ground: Dynamic behaviour at critical train speed.” J. Sound Vib. 231 (3): 689–701.](https://doi.org/10.1006/jsvi.1999.2647)
-- [Santos, N. C., A. Colaço, P. A. Costa, and R. Calçada. 2016. “Experimental analysis of track-ground vibrations on a stretch of the Portuguese railway network.” Soil Dyn. Earthquake Eng. 90: 358–380.]([https://doi.org/10.1016/j.soildyn.2017.03.004](https://doi.org/10.1016/j.soildyn.2016.09.003.)) 
+- [Santos, N. C., A. Colaço, P. A. Costa, and R. Calçada. 2016. “Experimental analysis of track-ground vibrations on a stretch of the Portuguese railway network.” Soil Dyn. Earthquake Eng. 90: 358–380.](https://doi.org/10.1016/j.soildyn.2016.09.003)
 - [Santos, N. C., J. Barbosa, R. Calçada, and R. Delgado. 2017. “Track-ground vibrations induced by railway traffic: Experimental validation of a 3D numerical model.” Soil Dyn. Earthquake Eng. 97: 324–344.](https://doi.org/10.1016/j.soildyn.2017.03.004) 
 
 ## Contributing
